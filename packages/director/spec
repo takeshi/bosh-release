@@ -5,4 +5,5 @@ dependencies:
 - ruby
 files:
 - bosh/director/**/*
+- bosh/aws_cpi/**/*
 - bosh/rake/**/*
