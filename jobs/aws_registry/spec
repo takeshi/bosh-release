@@ -8,7 +8,7 @@ templates:
 packages:
   - aws_registry
   - libpq
-  - sqlite3
+  - libsqlite3
   - ruby
 
 properties:
