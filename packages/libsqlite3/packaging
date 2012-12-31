@@ -1,7 +1,0 @@
-set -e
-
-tar xzf sqlite3/sqlite3_3.7.9.orig.tar.gz
-
-cd sqlite3_3.7.9
-make
-make install
